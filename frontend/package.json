@@ -1,0 +1,21 @@
+{
+  "name": "fairpay-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@thirdweb-dev/react": "^3.14.21",
+    "@thirdweb-dev/sdk": "3.10.67",
+    "@thirdweb-dev/wallets": "^2.5.39",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^4.0.0"
+  }
+}
